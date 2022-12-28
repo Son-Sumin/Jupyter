@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 cache/
-train/
-cats_and_dogs/
+/train
+/cats_and_dogs
