@@ -1,2 +1,5 @@
-.ipynb_checkpoints/
-cache/
+**/.ipynb_checkpoints
+**/cache/
+**/train
+**/cats_and_dogs
+*.zip
