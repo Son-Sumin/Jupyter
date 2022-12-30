@@ -1,6 +1,7 @@
 **/.ipynb_checkpoints
 **/cache
 **/train
+**/test
 **/cats_and_dogs
 *.zip
 *.json
