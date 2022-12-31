@@ -15,7 +15,7 @@
 - Chap06 비지도 학습과 데이터 전처리
 - Chap07 군집
 
-## [dl(Deep Learning)](https://github.com/Son-Sumin/Jupyter/tree/main/dl)
+## [dl(Deep Learning)](https://github.com/Son-Sumin/ml_dl/tree/main/dl)
 1. concept
 - 02 활성화함수
 - 03 신경망
@@ -33,6 +33,6 @@
 해당 폴더는 모두의 딥러닝 개정 3판의 내용과 예제를 담고 있습니다.   
 <참고> [모두의 딥러닝 개정 3판](https://thebook.io/080324/)
 
-## [scraping]
-해당 폴더는 web에서 소스를 가져와 원하는 부분을 활용하는 실습을 담고 있습니다.
+## [scraping](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)
+해당 폴더는 web에서 소스를 가져와 원하는 부분을 활용하는 실습을 담고 있습니다.   
 실습하기 위해 설치 및 세팅 방법도 포함되었습니다.
