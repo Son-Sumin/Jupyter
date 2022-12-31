@@ -29,9 +29,10 @@
 - 11 회귀문제 구현
 - 12 분류문제 구현
 
-2. practice
-해당 폴더는 모두의 딥러닝 개정 3판의 내용과 예제를 담고 있습니다.   
+2. practice   
 <참고> [모두의 딥러닝 개정 3판](https://thebook.io/080324/)
+해당 폴더는 모두의 딥러닝 개정 3판의 내용과 예제를 담고 있습니다.   
+(tensorboard, NLP, CNN, DCGAN 등)
 
 ## [scraping](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)
 해당 폴더는 web에서 소스를 가져와 원하는 부분을 활용하는 실습을 담고 있습니다.   
