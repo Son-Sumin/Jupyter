@@ -1,4 +1,5 @@
-# Jupyter
+# 빅데이터 & 인공지능(AI) (Jupyter 활용)
+[기본 세팅 참고](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)
 
 ## [python](https://github.com/Son-Sumin/Jupyter/tree/main/python)
 - List Comprehension
