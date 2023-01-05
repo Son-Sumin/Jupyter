@@ -38,4 +38,4 @@
 ## [scraping](https://github.com/Son-Sumin/ml_dl/tree/main/scraping)
 해당 폴더는 web에서 소스를 가져와 원하는 부분을 활용하는 실습을 담고 있습니다.   
 실습하기 위해 설치 및 세팅 방법도 포함되었습니다.   
-[설치사항 ](https://github.com/Son-Sumin/ml_dl/blob/main/scraping/README.md)
+[설치사항 참고](https://github.com/Son-Sumin/ml_dl/blob/main/scraping/README.md)
