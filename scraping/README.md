@@ -1,4 +1,9 @@
-## Scraping 폴더 실한 설치사항
+## Scraping에서 배운 내용   
+BeautifulSoup, selenium, folium, google geocoding api   
+  **google geocoding 사용 시 key 삭제 후 공유할 것!!**   
+<br>
+
+## Scraping 폴더 실시한 설치사항
 
 #### ** Window terminal 에서
 (ml-env) 환경 확인 후  
