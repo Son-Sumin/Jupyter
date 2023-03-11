@@ -1,3 +1,5 @@
+***[기본세팅](https://github.com/Son-Sumin/ml_dl/blob/main/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md) 설치 후 아래 내용 설치 권장** *
+
 ## Scraping에서 배운 내용   
 BeautifulSoup, selenium, folium, google geocoding api   
   **google geocoding 사용 시 key 삭제 후 공유할 것!!**   
@@ -22,7 +24,7 @@ BeautifulSoup, selenium, folium, google geocoding api
 #### ** Server 에서
   - chromedriver 다운로드(selenium을 구글에서 사용할 것이므로)   
     chromedriver 구글링 후 다운로드 페이지 접속(https://chromedriver.chromium.org/downloads)   
-    크롬 설정-(좌측베너)크롬 정보 에서 크롬 버전 확인 후 버전에 맞는 것 다운로드   
+    크롬 설정 → (좌측베너)크롬 정보 → 크롬 버전 확인 후 버전에 맞는 것 다운로드 →    
     다운 시 파일 위치 확인
 
 
